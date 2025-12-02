@@ -1,1 +1,2 @@
 This project use the results of the The High School Graduation Examination scores in the period 2020-2023 to survey, compare, evaluate and visualize the exam results of candidates nationwide. Subsequently, it aims to provide observations, assessments and insights about the examination.
+Note: README under revision and will be updated soon.
